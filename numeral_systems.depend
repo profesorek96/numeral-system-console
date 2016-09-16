@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1448581410 source:d:\numeral_systems\main.cpp
+	<iostream>
+	<algorithm>
+
+1448750672 source:e:\numeral_systems\main.cpp
+	<iostream>
+	<algorithm>
+
